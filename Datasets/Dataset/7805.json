@@ -1,0 +1,960 @@
+{
+    "id": 7805,
+    "item_count": 36,
+    "items": [
+        {
+            "lx": 383,
+            "ly": 0,
+            "lz": 371,
+            "rx": 672,
+            "ry": 501,
+            "rz": 747,
+            "id": 10,
+            "weight": 5768
+        },
+        {
+            "lx": 672,
+            "ly": 0,
+            "lz": 735,
+            "rx": 920,
+            "ry": 435,
+            "rz": 957,
+            "id": 22,
+            "weight": 2834
+        },
+        {
+            "lx": 0,
+            "ly": 0,
+            "lz": 0,
+            "rx": 383,
+            "ry": 598,
+            "rz": 373,
+            "id": 0,
+            "weight": 6424
+        },
+        {
+            "lx": 0,
+            "ly": 0,
+            "lz": 1008,
+            "rx": 284,
+            "ry": 283,
+            "rz": 1259,
+            "id": 32,
+            "weight": 7068
+        },
+        {
+            "lx": 1023,
+            "ly": 445,
+            "lz": 679,
+            "rx": 1193,
+            "ry": 745,
+            "rz": 911,
+            "id": 19,
+            "weight": 6406
+        },
+        {
+            "lx": 626,
+            "ly": 0,
+            "lz": 958,
+            "rx": 886,
+            "ry": 265,
+            "rz": 1260,
+            "id": 29,
+            "weight": 7279
+        },
+        {
+            "lx": 997,
+            "ly": 0,
+            "lz": 267,
+            "rx": 1192,
+            "ry": 222,
+            "rz": 644,
+            "id": 7,
+            "weight": 3263
+        },
+        {
+            "lx": 978,
+            "ly": 0,
+            "lz": 645,
+            "rx": 1125,
+            "ry": 222,
+            "rz": 839,
+            "id": 17,
+            "weight": 1867
+        },
+        {
+            "lx": 688,
+            "ly": 0,
+            "lz": 0,
+            "rx": 997,
+            "ry": 474,
+            "rz": 393,
+            "id": 2,
+            "weight": 7357
+        },
+        {
+            "lx": 0,
+            "ly": 0,
+            "lz": 697,
+            "rx": 365,
+            "ry": 417,
+            "rz": 1007,
+            "id": 20,
+            "weight": 5949
+        },
+        {
+            "lx": 365,
+            "ly": 0,
+            "lz": 748,
+            "rx": 636,
+            "ry": 450,
+            "rz": 942,
+            "id": 23,
+            "weight": 7875
+        },
+        {
+            "lx": 731,
+            "ly": 440,
+            "lz": 1063,
+            "rx": 1013,
+            "ry": 746,
+            "rz": 1281,
+            "id": 34,
+            "weight": 5391
+        },
+        {
+            "lx": 909,
+            "ly": 218,
+            "lz": 1057,
+            "rx": 1139,
+            "ry": 356,
+            "rz": 1232,
+            "id": 33,
+            "weight": 2000
+        },
+        {
+            "lx": 383,
+            "ly": 0,
+            "lz": 0,
+            "rx": 688,
+            "ry": 513,
+            "rz": 370,
+            "id": 1,
+            "weight": 7692
+        },
+        {
+            "lx": 365,
+            "ly": 0,
+            "lz": 943,
+            "rx": 626,
+            "ry": 455,
+            "rz": 1142,
+            "id": 28,
+            "weight": 2891
+        },
+        {
+            "lx": 672,
+            "ly": 0,
+            "lz": 394,
+            "rx": 978,
+            "ry": 409,
+            "rz": 734,
+            "id": 13,
+            "weight": 4946
+        },
+        {
+            "lx": 0,
+            "ly": 598,
+            "lz": 0,
+            "rx": 472,
+            "ry": 784,
+            "rz": 303,
+            "id": 3,
+            "weight": 6784
+        },
+        {
+            "lx": 978,
+            "ly": 222,
+            "lz": 463,
+            "rx": 1192,
+            "ry": 445,
+            "rz": 856,
+            "id": 15,
+            "weight": 5048
+        },
+        {
+            "lx": 1013,
+            "ly": 356,
+            "lz": 1135,
+            "rx": 1190,
+            "ry": 601,
+            "rz": 1296,
+            "id": 35,
+            "weight": 4851
+        },
+        {
+            "lx": 0,
+            "ly": 0,
+            "lz": 374,
+            "rx": 311,
+            "ry": 472,
+            "rz": 696,
+            "id": 11,
+            "weight": 4638
+        },
+        {
+            "lx": 0,
+            "ly": 417,
+            "lz": 849,
+            "rx": 217,
+            "ry": 742,
+            "rz": 1178,
+            "id": 25,
+            "weight": 7313
+        },
+        {
+            "lx": 400,
+            "ly": 501,
+            "lz": 378,
+            "rx": 798,
+            "ry": 731,
+            "rz": 729,
+            "id": 12,
+            "weight": 3521
+        },
+        {
+            "lx": 0,
+            "ly": 598,
+            "lz": 304,
+            "rx": 400,
+            "ry": 778,
+            "rz": 485,
+            "id": 9,
+            "weight": 3582
+        },
+        {
+            "lx": 302,
+            "ly": 501,
+            "lz": 730,
+            "rx": 788,
+            "ry": 715,
+            "rz": 978,
+            "id": 21,
+            "weight": 5255
+        },
+        {
+            "lx": 1023,
+            "ly": 356,
+            "lz": 912,
+            "rx": 1176,
+            "ry": 639,
+            "rz": 1134,
+            "id": 27,
+            "weight": 5477
+        },
+        {
+            "lx": 798,
+            "ly": 453,
+            "lz": 401,
+            "rx": 1191,
+            "ry": 744,
+            "rz": 678,
+            "id": 14,
+            "weight": 2710
+        },
+        {
+            "lx": 284,
+            "ly": 0,
+            "lz": 1143,
+            "rx": 600,
+            "ry": 441,
+            "rz": 1405,
+            "id": 36,
+            "weight": 6059
+        },
+        {
+            "lx": 861,
+            "ly": 474,
+            "lz": 0,
+            "rx": 1109,
+            "ry": 764,
+            "rz": 400,
+            "id": 6,
+            "weight": 2954
+        },
+        {
+            "lx": 920,
+            "ly": 218,
+            "lz": 857,
+            "rx": 1190,
+            "ry": 356,
+            "rz": 1056,
+            "id": 26,
+            "weight": 4708
+        },
+        {
+            "lx": 798,
+            "ly": 445,
+            "lz": 679,
+            "rx": 1023,
+            "ry": 737,
+            "rz": 1062,
+            "id": 18,
+            "weight": 4900
+        },
+        {
+            "lx": 472,
+            "ly": 513,
+            "lz": 0,
+            "rx": 861,
+            "ry": 787,
+            "rz": 377,
+            "id": 4,
+            "weight": 4919
+        },
+        {
+            "lx": 997,
+            "ly": 0,
+            "lz": 0,
+            "rx": 1192,
+            "ry": 332,
+            "rz": 266,
+            "id": 5,
+            "weight": 3011
+        },
+        {
+            "lx": 217,
+            "ly": 455,
+            "lz": 979,
+            "rx": 731,
+            "ry": 748,
+            "rz": 1256,
+            "id": 31,
+            "weight": 5165
+        },
+        {
+            "lx": 626,
+            "ly": 265,
+            "lz": 958,
+            "rx": 909,
+            "ry": 440,
+            "rz": 1150,
+            "id": 30,
+            "weight": 6794
+        },
+        {
+            "lx": 997,
+            "ly": 222,
+            "lz": 267,
+            "rx": 1191,
+            "ry": 453,
+            "rz": 462,
+            "id": 8,
+            "weight": 1011
+        },
+        {
+            "lx": 0,
+            "ly": 472,
+            "lz": 486,
+            "rx": 302,
+            "ry": 725,
+            "rz": 848,
+            "id": 16,
+            "weight": 5738
+        }
+    ],
+    "movement_values_adams_fall": {
+        "mean_x_movements/mm": "4.796486149465884",
+        "max_x_movements/mm": "22.160881045968807",
+        "mean_y_movements/mm": "4.345360191557669",
+        "max_y_movements/mm": "22.828159681532497",
+        "mean_z_movements/mm": "12.466417316778669",
+        "max_z_movements/mm": "16.952773163980282",
+        "is_stable": "True",
+        "item_translations": [
+            {
+                "item_name": 10,
+                "item_delta": 11.37827487713835,
+                "x_movement": 1.1508656298788082,
+                "y_movement": 0.7492005084119739,
+                "z_movement": 11.295102747645842
+            },
+            {
+                "item_name": 22,
+                "item_delta": 13.07111106007307,
+                "x_movement": 1.239185645793782,
+                "y_movement": 3.1007882536576687,
+                "z_movement": 12.637384044413693
+            },
+            {
+                "item_name": 0,
+                "item_delta": 10.043422921173436,
+                "x_movement": 0.8455668516909611,
+                "y_movement": 0.15957946509092835,
+                "z_movement": 10.006492645637366
+            },
+            {
+                "item_name": 32,
+                "item_delta": 29.646293539363125,
+                "x_movement": 15.504008771906285,
+                "y_movement": 20.93448633935172,
+                "z_movement": 14.151880240103537
+            },
+            {
+                "item_name": 19,
+                "item_delta": 17.024223921698013,
+                "x_movement": 11.087497488159897,
+                "y_movement": 0.9027089495522205,
+                "z_movement": 12.887075546397682
+            },
+            {
+                "item_name": 29,
+                "item_delta": 15.475585892146864,
+                "x_movement": 6.435813566340585,
+                "y_movement": 2.209039275001203,
+                "z_movement": 13.89943192817691
+            },
+            {
+                "item_name": 7,
+                "item_delta": 11.961749550180913,
+                "x_movement": 0.4495830639914402,
+                "y_movement": 4.29840915792991,
+                "z_movement": 11.153699210613922
+            },
+            {
+                "item_name": 17,
+                "item_delta": 14.472703456920236,
+                "x_movement": 5.702930886230206,
+                "y_movement": 4.919401401980863,
+                "z_movement": 12.358608922731605
+            },
+            {
+                "item_name": 2,
+                "item_delta": 10.053797390521805,
+                "x_movement": 0.35301054791716524,
+                "y_movement": 0.7349013741543331,
+                "z_movement": 10.020685879369154
+            },
+            {
+                "item_name": 20,
+                "item_delta": 18.271553568520815,
+                "x_movement": 7.467589108007104,
+                "y_movement": 11.092671040494594,
+                "z_movement": 12.451402808867442
+            },
+            {
+                "item_name": 23,
+                "item_delta": 13.123524726393443,
+                "x_movement": 3.022229214670631,
+                "y_movement": 1.417452436995461,
+                "z_movement": 12.69188167322352
+            },
+            {
+                "item_name": 34,
+                "item_delta": 15.079880610363716,
+                "x_movement": 4.3107670901603115,
+                "y_movement": 6.476846719102923,
+                "z_movement": 12.91783816644488
+            },
+            {
+                "item_name": 33,
+                "item_delta": 28.622597237582696,
+                "x_movement": 7.263840417072856,
+                "y_movement": 22.828159681532497,
+                "z_movement": 15.664125273204036
+            },
+            {
+                "item_name": 1,
+                "item_delta": 10.042324638382318,
+                "x_movement": 0.22590432916808822,
+                "y_movement": 0.5618287167606297,
+                "z_movement": 10.024051070787038
+            },
+            {
+                "item_name": 28,
+                "item_delta": 15.537750978957211,
+                "x_movement": 6.6146912928078905,
+                "y_movement": 3.0012061968309354,
+                "z_movement": 13.735367703452312
+            },
+            {
+                "item_name": 13,
+                "item_delta": 11.242922618451171,
+                "x_movement": 0.5404180472023654,
+                "y_movement": 0.9511050566894426,
+                "z_movement": 11.189578030912458
+            },
+            {
+                "item_name": 3,
+                "item_delta": 10.17791877573893,
+                "x_movement": 0.42727070455970306,
+                "y_movement": 1.808054126996808,
+                "z_movement": 10.006918138188894
+            },
+            {
+                "item_name": 15,
+                "item_delta": 12.694503091020524,
+                "x_movement": 0.9418384322484599,
+                "y_movement": 1.2158514088928882,
+                "z_movement": 12.600994184863453
+            },
+            {
+                "item_name": 35,
+                "item_delta": 30.309419995000084,
+                "x_movement": 10.830138018274738,
+                "y_movement": 22.670962330458337,
+                "z_movement": 16.952773163980282
+            },
+            {
+                "item_name": 11,
+                "item_delta": 12.086643310185096,
+                "x_movement": 2.415866673845528,
+                "y_movement": 3.8640965288346933,
+                "z_movement": 11.194609985957186
+            },
+            {
+                "item_name": 25,
+                "item_delta": 29.929717821737448,
+                "x_movement": 22.160881045968807,
+                "y_movement": 12.447686952475692,
+                "z_movement": 15.803115189367418
+            },
+            {
+                "item_name": 12,
+                "item_delta": 10.837721730590797,
+                "x_movement": 0.04694401799110892,
+                "y_movement": 0.3669887485110621,
+                "z_movement": 10.83140470240869
+            },
+            {
+                "item_name": 9,
+                "item_delta": 11.064537903780417,
+                "x_movement": 2.020595579684141,
+                "y_movement": 2.0708855716736707,
+                "z_movement": 10.679542381421982
+            },
+            {
+                "item_name": 21,
+                "item_delta": 12.548334318351639,
+                "x_movement": 2.2692371851790085,
+                "y_movement": 1.1099815657937597,
+                "z_movement": 12.291427813159885
+            },
+            {
+                "item_name": 27,
+                "item_delta": 19.712958710270577,
+                "x_movement": 12.085172927695567,
+                "y_movement": 3.919891786371693,
+                "z_movement": 15.072617052246187
+            },
+            {
+                "item_name": 14,
+                "item_delta": 11.803045490496041,
+                "x_movement": 3.9057924081918145,
+                "y_movement": 0.2756060017940172,
+                "z_movement": 11.134662538514817
+            },
+            {
+                "item_name": 36,
+                "item_delta": 18.351226970023554,
+                "x_movement": 9.003272419599625,
+                "y_movement": 2.8288572937376273,
+                "z_movement": 15.738684298741873
+            },
+            {
+                "item_name": 6,
+                "item_delta": 10.142758127649635,
+                "x_movement": 1.558353838382459,
+                "y_movement": 0.6057476413560607,
+                "z_movement": 10.00400647467768
+            },
+            {
+                "item_name": 26,
+                "item_delta": 14.395937237549578,
+                "x_movement": 0.3399228656064679,
+                "y_movement": 3.10653866951327,
+                "z_movement": 14.05264668621976
+            },
+            {
+                "item_name": 18,
+                "item_delta": 13.43427550668713,
+                "x_movement": 5.81918746786198,
+                "y_movement": 2.4113594823490985,
+                "z_movement": 11.866008640243649
+            },
+            {
+                "item_name": 4,
+                "item_delta": 10.116066938342378,
+                "x_movement": 1.4295689025385627,
+                "y_movement": 0.13730758103258722,
+                "z_movement": 10.013605228992674
+            },
+            {
+                "item_name": 5,
+                "item_delta": 10.311374514856569,
+                "x_movement": 0.29617902447466804,
+                "y_movement": 2.398630273769868,
+                "z_movement": 10.024135632604413
+            },
+            {
+                "item_name": 31,
+                "item_delta": 15.989020682568837,
+                "x_movement": 7.0755070488608,
+                "y_movement": 2.2678750041201283,
+                "z_movement": 14.157779676023438
+            },
+            {
+                "item_name": 30,
+                "item_delta": 16.109494068062407,
+                "x_movement": 6.629345272990236,
+                "y_movement": 3.2964633178105487,
+                "z_movement": 14.307372574122383
+            },
+            {
+                "item_name": 8,
+                "item_delta": 11.987331407732825,
+                "x_movement": 2.366951746488212,
+                "y_movement": 2.166897365919681,
+                "z_movement": 11.549814263189887
+            },
+            {
+                "item_name": 16,
+                "item_delta": 16.373248504756244,
+                "x_movement": 8.837573849331562,
+                "y_movement": 3.12550067112727,
+                "z_movement": 13.424298887126156
+            }
+        ]
+    },
+    "movement_values_blender_bevel": {
+        "mean_x_movements/mm": "5.17719790742204",
+        "max_x_movements/mm": "20.923805236816406",
+        "mean_y_movements/mm": "3.817565054506869",
+        "max_y_movements/mm": "14.150524139404297",
+        "mean_z_movements/mm": "50.41261685861124",
+        "max_z_movements/mm": "54.720211029052734",
+        "is_stable": "True",
+        "item_translations": [
+            {
+                "item_name": "bottom",
+                "itemDelta": 0.0
+            },
+            {
+                "item_name": "item_0",
+                "itemDelta": 50.91612362931666
+            },
+            {
+                "item_name": "item_1",
+                "itemDelta": 50.038238844049275
+            },
+            {
+                "item_name": "item_10",
+                "itemDelta": 51.12637270186083
+            },
+            {
+                "item_name": "item_11",
+                "itemDelta": 51.15581915977907
+            },
+            {
+                "item_name": "item_12",
+                "itemDelta": 51.07046756502387
+            },
+            {
+                "item_name": "item_13",
+                "itemDelta": 50.937986219991785
+            },
+            {
+                "item_name": "item_14",
+                "itemDelta": 51.65648489995871
+            },
+            {
+                "item_name": "item_15",
+                "itemDelta": 52.61384321296635
+            },
+            {
+                "item_name": "item_16",
+                "itemDelta": 52.989806392245676
+            },
+            {
+                "item_name": "item_17",
+                "itemDelta": 54.31899278996488
+            },
+            {
+                "item_name": "item_18",
+                "itemDelta": 52.486730236574076
+            },
+            {
+                "item_name": "item_19",
+                "itemDelta": 52.092013497224
+            },
+            {
+                "item_name": "item_2",
+                "itemDelta": 50.051289000822884
+            },
+            {
+                "item_name": "item_20",
+                "itemDelta": 52.72399273872107
+            },
+            {
+                "item_name": "item_21",
+                "itemDelta": 51.97383564712615
+            },
+            {
+                "item_name": "item_22",
+                "itemDelta": 51.939094047230775
+            },
+            {
+                "item_name": "item_23",
+                "itemDelta": 52.00537993575626
+            },
+            {
+                "item_name": "item_25",
+                "itemDelta": 55.39584479998454
+            },
+            {
+                "item_name": "item_26",
+                "itemDelta": 54.00682158884933
+            },
+            {
+                "item_name": "item_27",
+                "itemDelta": 53.2116209547835
+            },
+            {
+                "item_name": "item_28",
+                "itemDelta": 53.00208115305863
+            },
+            {
+                "item_name": "item_29",
+                "itemDelta": 56.1544722191216
+            },
+            {
+                "item_name": "item_3",
+                "itemDelta": 50.12864335908518
+            },
+            {
+                "item_name": "item_30",
+                "itemDelta": 53.31700265359596
+            },
+            {
+                "item_name": "item_31",
+                "itemDelta": 53.614833754828126
+            },
+            {
+                "item_name": "item_32",
+                "itemDelta": 52.85943410488165
+            },
+            {
+                "item_name": "item_33",
+                "itemDelta": 55.80175337882976
+            },
+            {
+                "item_name": "item_34",
+                "itemDelta": 55.78271418948489
+            },
+            {
+                "item_name": "item_35",
+                "itemDelta": 57.910945651694945
+            },
+            {
+                "item_name": "item_36",
+                "itemDelta": 54.97991270269924
+            },
+            {
+                "item_name": "item_4",
+                "itemDelta": 50.09883410219056
+            },
+            {
+                "item_name": "item_5",
+                "itemDelta": 50.48926396166169
+            },
+            {
+                "item_name": "item_6",
+                "itemDelta": 50.202124680528385
+            },
+            {
+                "item_name": "item_7",
+                "itemDelta": 51.72955772857225
+            },
+            {
+                "item_name": "item_8",
+                "itemDelta": 51.529978149284204
+            },
+            {
+                "item_name": "item_9",
+                "itemDelta": 51.23457037021089
+            }
+        ]
+    },
+    "movement_values_blender": {
+        "mean_x_movements/mm": "5.129982974078204",
+        "max_x_movements/mm": "21.049022674560547",
+        "mean_y_movements/mm": "3.2499690313596985",
+        "max_y_movements/mm": "17.593908309936523",
+        "mean_z_movements/mm": "50.35200312330916",
+        "max_z_movements/mm": "53.936767578125",
+        "is_stable": "True",
+        "item_translations": [
+            {
+                "item_name": "bottom",
+                "itemDelta": 0.0
+            },
+            {
+                "item_name": "item_0",
+                "itemDelta": 50.85108404167343
+            },
+            {
+                "item_name": "item_1",
+                "itemDelta": 50.028244360245054
+            },
+            {
+                "item_name": "item_10",
+                "itemDelta": 51.13093021765677
+            },
+            {
+                "item_name": "item_11",
+                "itemDelta": 51.05470706932478
+            },
+            {
+                "item_name": "item_12",
+                "itemDelta": 51.044177064890505
+            },
+            {
+                "item_name": "item_13",
+                "itemDelta": 50.94171849273999
+            },
+            {
+                "item_name": "item_14",
+                "itemDelta": 51.65472242535626
+            },
+            {
+                "item_name": "item_15",
+                "itemDelta": 52.09385076562674
+            },
+            {
+                "item_name": "item_16",
+                "itemDelta": 52.03270589178424
+            },
+            {
+                "item_name": "item_17",
+                "itemDelta": 54.41071603014338
+            },
+            {
+                "item_name": "item_18",
+                "itemDelta": 52.209562589052794
+            },
+            {
+                "item_name": "item_19",
+                "itemDelta": 52.054880034096115
+            },
+            {
+                "item_name": "item_2",
+                "itemDelta": 50.036242408753616
+            },
+            {
+                "item_name": "item_20",
+                "itemDelta": 52.366460323686894
+            },
+            {
+                "item_name": "item_21",
+                "itemDelta": 52.19325832444146
+            },
+            {
+                "item_name": "item_22",
+                "itemDelta": 51.91399334165402
+            },
+            {
+                "item_name": "item_23",
+                "itemDelta": 52.04629332615407
+            },
+            {
+                "item_name": "item_25",
+                "itemDelta": 53.67476468068916
+            },
+            {
+                "item_name": "item_26",
+                "itemDelta": 53.36582507331208
+            },
+            {
+                "item_name": "item_27",
+                "itemDelta": 53.276390135003325
+            },
+            {
+                "item_name": "item_28",
+                "itemDelta": 52.95691324027605
+            },
+            {
+                "item_name": "item_29",
+                "itemDelta": 54.67111207031742
+            },
+            {
+                "item_name": "item_3",
+                "itemDelta": 50.20782217427352
+            },
+            {
+                "item_name": "item_30",
+                "itemDelta": 53.63741525711481
+            },
+            {
+                "item_name": "item_31",
+                "itemDelta": 55.9583867432161
+            },
+            {
+                "item_name": "item_32",
+                "itemDelta": 52.85159586175124
+            },
+            {
+                "item_name": "item_33",
+                "itemDelta": 57.927925903727484
+            },
+            {
+                "item_name": "item_34",
+                "itemDelta": 54.71328703669022
+            },
+            {
+                "item_name": "item_35",
+                "itemDelta": 55.48333712939687
+            },
+            {
+                "item_name": "item_36",
+                "itemDelta": 54.28575747587103
+            },
+            {
+                "item_name": "item_4",
+                "itemDelta": 50.071485638224786
+            },
+            {
+                "item_name": "item_5",
+                "itemDelta": 50.65868319219017
+            },
+            {
+                "item_name": "item_6",
+                "itemDelta": 50.185225295420686
+            },
+            {
+                "item_name": "item_7",
+                "itemDelta": 52.13345158611447
+            },
+            {
+                "item_name": "item_8",
+                "itemDelta": 51.282799581935954
+            },
+            {
+                "item_name": "item_9",
+                "itemDelta": 51.21744171483331
+            }
+        ]
+    },
+    "KPIs": {
+        "pallet_id": 7805,
+        "absolute_density": 0.5177436614583333,
+        "relative_density": 0.7535715937085478,
+        "side_support": 0.6,
+        "side_support_most_outer_fully_supported": 0.4166666666666667,
+        "surface_support": 0.8686064983655581,
+        "min_surface_support": 0.47619047619047616,
+        "center_of_gravity_2d": 0.9549167119351084,
+        "center_of_gravity_3d": 0.7770384489019254,
+        "height_width_ratio": 0.9447137486154968,
+        "pillar_score": 1.0
+    }
+}
