@@ -12,22 +12,21 @@ import bpy
 
 # Import physics configuration
 PHYSICS_CONFIG_STATIC = {
-    "item_friction": 0.47, 
-    "ground_friction": 0.6,
+    "item_friction": 0.43,
+    "ground_friction": 0.5,
     "pallet_friction": 0.6,
-    "item_restitution": 0.070,
-    "ground_restitution": 0.1,
+    "item_restitution": 0.09,
+    "ground_restitution": 0.05,
     "pallet_restitution": 0.0,
-    "linear_damping": 0.09, 
+    "linear_damping": 0.07,
     "angular_damping": 0.1,
     "collision_margin": 0.000001,
     "split_impulse": False,
-    "substeps_per_frame": 100,
-    "solver_iterations": 200,
+    "substeps_per_frame": 100, #100
+    "solver_iterations": 200, #200
     "gravity": [0.0, 0.0, -9.81],
-    "fall_height": 20
+    "fall_height": 50,
 }
-
 #bpy.context.scene.frame_end The integer of the last frame in the .blend file.
 ENDFRAME = 120 
 
