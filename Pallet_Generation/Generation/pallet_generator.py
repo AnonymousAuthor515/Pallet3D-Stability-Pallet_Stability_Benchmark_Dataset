@@ -21,7 +21,6 @@ Defines the dimension range of the layers that the pallet layout is constructed 
 """
 LAYER_DIMENSIONS = {
 
-
     "min_height" : 800,
     "max_height" : 2000
 }
@@ -192,16 +191,23 @@ class Simple_space():
 
                 intersection = Rectangle(lx, ly, rx, ry)
                 supporting_surfaces.append(intersection)
-        
-        lx = supporting_surfaces[0].lx
-        ly = supporting_surfaces[0].ly
-        rx = supporting_surfaces[0].rx
-        ry = supporting_surfaces[0].ry
-        for surface in supporting_surfaces:
-            lx = min(lx, surface.lx)
-            ly = min(ly, surface.ly)
-            rx = max(rx, surface.rx)
-            ry = max(ry, surface.ry)
+
+        if len(supporting_surfaces) == 0: 
+            lx = 0
+            ly = 0
+            rx = 0
+            ry = 0
+        else:         
+            lx = supporting_surfaces[0].lx
+            ly = supporting_surfaces[0].ly
+            rx = supporting_surfaces[0].rx
+            ry = supporting_surfaces[0].ry
+
+            for surface in supporting_surfaces:
+                lx = min(lx, surface.lx)
+                ly = min(ly, surface.ly)
+                rx = max(rx, surface.rx)
+                ry = max(ry, surface.ry)
 
         self.lx = lx 
         self.ly = ly
@@ -281,11 +287,11 @@ class Layer_generator():
             no_item_fits = self.pick_items(empty_space)
             if no_item_fits or len(self.item_catalog) == 0: 
                 self.sanity_check()
-                self.placed_items.add(item for item in self.item_list)
+                self.placed_items.update(self.item_list)
                 return 
             empty_space = self.calculate_empty_space()
         self.sanity_check()
-        self.placed_items.add(item for item in self.item_list)
+        self.placed_items.update(self.item_list)
         return 
     
 
@@ -686,21 +692,25 @@ class Pallet_generator():
 
     def __init__(self, pallet_id, item_order: List[Item]): 
         #layer_list: List[Layer_generator] = list()
-        placed_items: Set[Item] = set()
-        remaining_order = sorted(item_order)
-        next_item_id = 0
-
+        self.placed_items: Set[Item] = set()
+        self.remaining_order = sorted(item_order)
+        self.next_item_id = 0
+        self.pallet_id = pallet_id
         #the Layer_generator will shift items it places from remaining order to placed_items
         #the pallet_heihgt is the accumulated height of all layers beneath the next layer
+
+    def generate_pallet(self) -> Pallet:
         pallet_height = 0
-        while len(remaining_order) > 0:
-            Layer_generator(remaining_order, placed_items, pallet_height, next_item_id)
-            if len(placed_items) == 0: 
-                pallet_height = 0 
+        while len(self.remaining_order) > 0:
+            layer_generator = Layer_generator(self.remaining_order, self.placed_items, pallet_height, self.next_item_id)
+            layer_generator.fill_layer()
+            if len(self.placed_items) == 0: 
+                pallet_height = 0
             else: 
-                pallet_height = max(item.rz for item in placed_items)
+                pallet_height = max(item.rz for item in self.placed_items)
         
-        return Pallet(pallet_id, list(placed_items))
+        return Pallet(self.pallet_id, list(self.placed_items))
+
 
 
 class Pallet_list_generator(): 
