@@ -695,7 +695,10 @@ class Pallet_generator():
         pallet_height = 0
         while len(remaining_order) > 0:
             Layer_generator(remaining_order, placed_items, pallet_height, next_item_id)
-            pallet_height = max(item.rz for item in placed_items)
+            if len(placed_items) == 0: 
+                pallet_height = 0 
+            else: 
+                pallet_height = max(item.rz for item in placed_items)
         
         return Pallet(pallet_id, list(placed_items))
 
