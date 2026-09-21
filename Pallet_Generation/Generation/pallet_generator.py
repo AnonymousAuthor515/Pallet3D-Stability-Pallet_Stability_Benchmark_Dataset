@@ -256,7 +256,7 @@ class Layer_generator():
     def __init__(self, item_order: List[Item], placed_items: Set[Item], offset_height, next_item_id):
         self.length = 1200
         self.width = 800
-        self.height = self.generate_random_layer_height_within_bound(offset_height, item_order)
+        self.height = 2000 #self.generate_random_layer_height_within_bound(offset_height, item_order)
         self.lz = offset_height
         self.rz = offset_height + self.height
 
