@@ -7,20 +7,20 @@ from multiprocessing import Pool
 from item import Item
 from pallet import Pallet
 
-
+"""
+Defines the minimum size for empty space patches to be viable for item placement.
+"""
 EMPTY_SPACE_CONFIGS = {
-    """
-    Defines the minimum size for empty space patches to be viable for item placement.
-    """
+
 
     "min_size" : (150, 150, 90),
 }
 
-
+"""
+Defines the dimension range of the layers that the pallet layout is constructed of.
+"""
 LAYER_DIMENSIONS = {
-    """
-    Defines the dimension range of the layers that the pallet layout is constructed of.
-    """
+
 
     "min_height" : 800,
     "max_height" : 2000
